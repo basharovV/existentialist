@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://basharovv.github.io/existentialist/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://basharovV.github.io/existentialist/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://basharovv.github.io/existentialist/</loc>
+<loc>https://basharovV.github.io/existentialist/</loc>
+</url>
+<url>
+<loc>https://basharovV.github.io/existentialist/a-markdown-post.html</loc>
+<lastmod>2020-09-25T01:33:59+02:00</lastmod>
+</url>
+<url>
+<loc>https://basharovV.github.io/existentialist/creative-thinking.html</loc>
+<lastmod>2020-09-25T01:36:46+02:00</lastmod>
+</url>
+<url>
+<loc>https://basharovV.github.io/existentialist/particularly-interesting.html</loc>
+<lastmod>2020-09-25T01:32:06+02:00</lastmod>
+</url>
+<url>
+<loc>https://basharovV.github.io/existentialist/the-golden-age-of-the-internet.html</loc>
+<lastmod>2020-09-24T15:59:54+02:00</lastmod>
 </url>
 </urlset>
