@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Existentialist</title>
+    <link href="https://basharovV.github.io/existentialist/feed.xml" rel="self" />
+    <link href="https://basharovV.github.io/existentialist" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>Vyacheslav Basharov</name>
+    </author>
+    <id>https://basharovV.github.io/existentialist</id>
+
+    <entry>
+        <title>Particularly interesting</title>
+        <author>
+            <name>Vyacheslav Basharov</name>
+        </author>
+        <link href="https://basharovV.github.io/existentialist/particularly-interesting.html"/>
+        <id>https://basharovV.github.io/existentialist/particularly-interesting.html</id>
+
+        <updated>2020-09-24T16:30:49+02:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a headingThis is a paragraph What is this 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 id="this-is-a-heading">This is a heading</h1>
+<p>This is a paragraph </p>
+<p><a href="https://google.com">What is this</a> </p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>This is a test post</title>
+        <author>
+            <name>Vyacheslav Basharov</name>
+        </author>
+        <link href="https://basharovV.github.io/existentialist/the-golden-age-of-the-internet.html"/>
+        <id>https://basharovV.github.io/existentialist/the-golden-age-of-the-internet.html</id>
+
+        <updated>2020-09-24T16:30:49+02:00</updated>
+            <summary>
+                <![CDATA[
+                     This is a heading Trying out Publii for blogging. Seems like a good choice!&nbsp; Here is a random piece of code that I wrote.&nbsp; This is a picture. Originally it was 486KB I hope you enjoyed this amazing blog post.&nbsp; 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="this-is-a-heading">
+      This is a heading
+    </h2>
+
+    <h4 id="trying-out-publii-for-blogging-seems-like-a-good-choicenbsp">
+      Trying out Publii for blogging. Seems like a good choice!&nbsp;
+    </h4>
+
+  <p>
+    Here is a random <code>piece of code</code> that I wrote.&nbsp;
+  </p>
+
+  <p>
+    
+  </p>
+
+  <p>
+    This is a picture. Originally it was 486KB
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://basharovV.github.io/existentialist/media/posts/1/rage.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://basharovV.github.io/existentialist/media/posts/1/responsive/rage-xs.png 300w ,https://basharovV.github.io/existentialist/media/posts/1/responsive/rage-sm.png 480w ,https://basharovV.github.io/existentialist/media/posts/1/responsive/rage-md.png 768w ,https://basharovV.github.io/existentialist/media/posts/1/responsive/rage-lg.png 1024w ,https://basharovV.github.io/existentialist/media/posts/1/responsive/rage-xl.png 1360w ,https://basharovV.github.io/existentialist/media/posts/1/responsive/rage-2xl.png 1600w"  height="534" width="950" alt="" />
+      
+    </figure>
+
+  <p>
+    <code>I hope you enjoyed this amazing blog post.&nbsp;</code>
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

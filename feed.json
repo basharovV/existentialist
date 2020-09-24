@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Existentialist",
+    "description": "",
+    "home_page_url": "https://basharovV.github.io/existentialist",
+    "feed_url": "https://basharovV.github.io/existentialist/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Vyacheslav Basharov"
+    },
+    "items": [
+        {
+            "id": "https://basharovV.github.io/existentialist/particularly-interesting.html",
+            "url": "https://basharovV.github.io/existentialist/particularly-interesting.html",
+            "title": "Particularly interesting",
+            "summary": "This is a headingThis is a paragraph What is this ",
+            "content_html": "<h1 id=\"this-is-a-heading\">This is a heading</h1>\n<p>This is a paragraph </p>\n<p><a href=\"https://google.com\">What is this</a> </p>\n",
+            "author": {
+                "name": "Vyacheslav Basharov"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-24T16:30:49+02:00",
+            "date_modified": "2020-09-24T16:30:49+02:00"
+        },
+        {
+            "id": "https://basharovV.github.io/existentialist/the-golden-age-of-the-internet.html",
+            "url": "https://basharovV.github.io/existentialist/the-golden-age-of-the-internet.html",
+            "title": "This is a test post",
+            "summary": " This is a heading Trying out Publii for blogging. Seems like a good choice!&nbsp; Here is a random piece of code that I wrote.&nbsp; This is a picture. Originally it was 486KB I hope you enjoyed this amazing blog post.&nbsp; ",
+            "content_html": "\n    <h2 id=\"this-is-a-heading\">\n      This is a heading\n    </h2>\n\n    <h4 id=\"trying-out-publii-for-blogging-seems-like-a-good-choicenbsp\">\n      Trying out Publii for blogging. Seems like a good choice!&nbsp;\n    </h4>\n\n  <p>\n    Here is a random <code>piece of code</code> that I wrote.&nbsp;\n  </p>\n\n  <p>\n    \n  </p>\n\n  <p>\n    This is a picture. Originally it was 486KB\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://basharovV.github.io/existentialist/media/posts/1/rage.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://basharovV.github.io/existentialist/media/posts/1/responsive/rage-xs.png 300w ,https://basharovV.github.io/existentialist/media/posts/1/responsive/rage-sm.png 480w ,https://basharovV.github.io/existentialist/media/posts/1/responsive/rage-md.png 768w ,https://basharovV.github.io/existentialist/media/posts/1/responsive/rage-lg.png 1024w ,https://basharovV.github.io/existentialist/media/posts/1/responsive/rage-xl.png 1360w ,https://basharovV.github.io/existentialist/media/posts/1/responsive/rage-2xl.png 1600w\"  height=\"534\" width=\"950\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    <code>I hope you enjoyed this amazing blog post.&nbsp;</code>\n  </p>",
+            "author": {
+                "name": "Vyacheslav Basharov"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-24T16:30:49+02:00",
+            "date_modified": "2020-09-24T16:30:49+02:00"
+        }
+    ]
+}
