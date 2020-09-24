@@ -1,41 +1,70 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Existentialist",
+    "title": "existentialist",
     "description": "",
     "home_page_url": "https://basharovV.github.io/existentialist",
     "feed_url": "https://basharovV.github.io/existentialist/feed.json",
     "user_comment": "",
+    "icon": "https://basharovV.github.io/existentialist/media/website/logo.png",
     "author": {
         "name": "Vyacheslav Basharov"
     },
     "items": [
         {
-            "id": "https://basharovV.github.io/existentialist/particularly-interesting.html",
-            "url": "https://basharovV.github.io/existentialist/particularly-interesting.html",
-            "title": "Particularly interesting",
-            "summary": "This is a headingThis is a paragraph What is this ",
-            "content_html": "<h1 id=\"this-is-a-heading\">This is a heading</h1>\n<p>This is a paragraph </p>\n<p><a href=\"https://google.com\">What is this</a> </p>\n",
+            "id": "https://basharovV.github.io/existentialist/creative-thinking.html",
+            "url": "https://basharovV.github.io/existentialist/creative-thinking.html",
+            "title": "Creative thinking",
+            "summary": "In order to get something done, maybe we need to think less. Seems counter-intuitive, but I believe sometimes our thoughts can get in the way&hellip;",
+            "content_html": "<p>In order to get something done, maybe we need to think less. Seems counter-intuitive, but I believe sometimes our thoughts can get in the way of the creative process. We can work better at times when we “tune out” the external world and focus on what’s in front of us. </p>\n<p>I’ve been thinking about this lately, so I thought it would be good to write an article about it. </p>\n<p>So what exactly does this mean? Well, for starters, let’s start with some definitions.</p>\n<p>Definition #1: Creative Thinking (CT) is the act of using your mind to come up with ideas that are not already present in reality or that have never existed before. It is a form of mental activity that involves the use of logic and reason.</p>\n<p>Definition #2: Over-Thinking (OT) is the act of trying to come up with ideas that have already been thought through by someone else. OT usually results in ideas that are impractical, impossible, or even stupid.</p>\n<p>Now, how do these two concepts relate to each other? Well, if you’re like me then you probably find yourself doing both at times. You might be working on a project all day long, but you still feel as though you’re just going through the motions. This is because you’re thinking too much!</p>\n<p>This is where OT comes into play. When you think too much, your brain starts to shut down certain areas of your consciousness which causes you to become more passive and less productive. On top of this, your attention span decreases due to being constantly bombarded with information.</p>\n<p>So how do we combat this? </p>\n<p>The answer is simple: Creative Thinking. </p>\n<p>Creative thinking is the exact opposite of over-thinking. Instead of using your brain to analyze everything, you use it to create something. This can be anything from writing a story, to drawing a picture, to even building a model. </p>\n<p>When you engage in creative thinking, your brain starts working more efficiently. It becomes more active and more open to new ideas. It also helps you think outside the box and look at things from a different perspective. </p>\n<p>So how does this all tie into productivity? </p>\n<p>Well, if you’re a creator then you should be engaging in creative thinking on a regular basis. The more you do it, the better your brain becomes at thinking up ideas. This makes it easier for you to work on your projects because you won’t get stuck as often. </p>\n<p>In addition to this, your brain will be more alert and aware of its surroundings. This means you’ll be more productive in general because you won’t be tired or distracted as easily. </p>\n<p>So how do you get into the habit of creative thinking? </p>\n<p>Well, the best way is to just do it! </p>\n<p>The more you practice, the better you’ll get. It’s really that simple. </p>\n<p>I’ve found that the best way to get into the habit of creative thinking is to engage in it daily. This can be done by setting aside a certain amount of time each day (or week if you need more time) to do something creative. You can start off small by committing to do one activity each day. For example, you could spend 15 minutes drawing each day or spend an hour writing. Once you get into the habit of doing one creative activity each day, you can increase the amount of time you spend. </p>\n<p>I would recommend not going over two hours each day though. If you do this, then you’re probably just wasting time and not actually engaging in creative thinking. </p>\n<p>You see, creative thinking is all about having fun. If you spend too much time on it, then it stops being fun and it just feels like work. If you do find yourself in this situation, then I recommend that you go back to spending less time on it and try to engage in other creative activities instead. </p>\n<p>For example, if you’re writing for too long then go and draw something. Or if you’re drawing for too long then go and write something. </p>\n<p>The key is to have fun and enjoy the process of creating something. </p>\n<p>In addition to this, you should also try to engage in other forms of creative thinking as well. For example, if you’re writing stories then try drawing a picture to go along with it. Or if you’re drawing a picture then try writing a story about it. </p>\n<p>The more you can cross-pollinate your creative thinking, the more ideas you’ll be able to come up with. This is because your brain makes connections between different forms of creative thinking. </p>\n<p>For example, if you’re writing a story about a character in a desert and you draw a picture of that character, your brain will make a connection and give you ideas on what to have that character do next in your story. Or if you’re drawing a picture of a character from a story and you write a poem about their feelings, your brain will make a connection and give you ideas on how to draw that character better. </p>\n<p>In addition to this, engaging in multiple forms of creative thinking will also help you get through creative blocks. If you’re stuck on a story you’re writing, then drawing a picture or writing a poem can sometimes give you the extra push you need to get past that block. </p>\n<p>Creative thinking isn’t just for artists though. </p>\n",
             "author": {
                 "name": "Vyacheslav Basharov"
             },
             "tags": [
             ],
-            "date_published": "2020-09-24T16:50:40+02:00",
-            "date_modified": "2020-09-24T16:50:40+02:00"
+            "date_published": "2020-09-25T01:41:16+02:00",
+            "date_modified": "2020-09-25T01:41:16+02:00"
+        },
+        {
+            "id": "https://basharovV.github.io/existentialist/a-markdown-post.html",
+            "url": "https://basharovV.github.io/existentialist/a-markdown-post.html",
+            "title": "A markdown post",
+            "summary": "This is a markdown postThis is a heading 2This is a heading 3This is a paragraphthis is italic textthis is bold textthis is also italic&hellip;",
+            "content_html": "<h1 id=\"this-is-a-markdown-post\">This is a markdown post</h1>\n<h2 id=\"this-is-a-heading-2\">This is a heading 2</h2>\n<h3 id=\"this-is-a-heading-3\">This is a heading 3</h3>\n<p>This is a paragraph\n<em>this is italic text</em>\n<strong>this is bold text</strong>\n<em>this is also italic text</em> </p>\n",
+            "author": {
+                "name": "Vyacheslav Basharov"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-25T01:41:16+02:00",
+            "date_modified": "2020-09-25T01:41:16+02:00"
+        },
+        {
+            "id": "https://basharovV.github.io/existentialist/particularly-interesting.html",
+            "url": "https://basharovV.github.io/existentialist/particularly-interesting.html",
+            "title": "Particularly interesting",
+            "summary": "This is a titlewow a subtitle!crazy Let’s go back in time Marty. ",
+            "content_html": "<h1 id=\"this-is-a-title\">This is a title</h1>\n<p><strong>wow a subtitle!</strong>\n<em>crazy</em></p>\n<p>Let’s go back in time Marty. </p>\n",
+            "author": {
+                "name": "Vyacheslav Basharov"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-25T01:41:16+02:00",
+            "date_modified": "2020-09-25T01:41:16+02:00"
         },
         {
             "id": "https://basharovV.github.io/existentialist/the-golden-age-of-the-internet.html",
             "url": "https://basharovV.github.io/existentialist/the-golden-age-of-the-internet.html",
             "title": "This is a test post",
-            "summary": " This is a heading Trying out Publii for blogging. Seems like a good choice!&nbsp; Here is a random piece of code that I wrote.&nbsp; This is a picture. Originally it was 486KB I hope you enjoyed this amazing blog post.&nbsp; ",
-            "content_html": "\n    <h2 id=\"this-is-a-heading\">\n      This is a heading\n    </h2>\n\n    <h4 id=\"trying-out-publii-for-blogging-seems-like-a-good-choicenbsp\">\n      Trying out Publii for blogging. Seems like a good choice!&nbsp;\n    </h4>\n\n  <p>\n    Here is a random <code>piece of code</code> that I wrote.&nbsp;\n  </p>\n\n  <p>\n    \n  </p>\n\n  <p>\n    This is a picture. Originally it was 486KB\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://basharovV.github.io/existentialist/media/posts/1/rage.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://basharovV.github.io/existentialist/media/posts/1/responsive/rage-xs.png 300w ,https://basharovV.github.io/existentialist/media/posts/1/responsive/rage-sm.png 480w ,https://basharovV.github.io/existentialist/media/posts/1/responsive/rage-md.png 768w ,https://basharovV.github.io/existentialist/media/posts/1/responsive/rage-lg.png 1024w ,https://basharovV.github.io/existentialist/media/posts/1/responsive/rage-xl.png 1360w ,https://basharovV.github.io/existentialist/media/posts/1/responsive/rage-2xl.png 1600w\"  height=\"534\" width=\"950\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    <code>I hope you enjoyed this amazing blog post.&nbsp;</code>\n  </p>",
+            "summary": " This is a heading Trying out Publii for blogging. Seems like a good choice!&nbsp; Here is a random piece of code that I wrote.&nbsp;&hellip;",
+            "content_html": "\n    <h2 id=\"this-is-a-heading\">\n      This is a heading\n    </h2>\n\n    <h4 id=\"trying-out-publii-for-blogging-seems-like-a-good-choicenbsp\">\n      Trying out Publii for blogging. Seems like a good choice!&nbsp;\n    </h4>\n\n  <p>\n    Here is a random <code>piece of code</code> that I wrote.&nbsp;\n  </p>\n\n  <p>\n    \n  </p>\n\n  <p>\n    This is a picture. Originally it was 486KB\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://basharovV.github.io/existentialist/media/posts/1/rage.png\" height=\"534\" width=\"950\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    <code>I hope you enjoyed this amazing blog post.&nbsp;</code>\n  </p>",
             "author": {
                 "name": "Vyacheslav Basharov"
             },
             "tags": [
             ],
-            "date_published": "2020-09-24T16:50:40+02:00",
-            "date_modified": "2020-09-24T16:50:40+02:00"
+            "date_published": "2020-09-25T01:41:16+02:00",
+            "date_modified": "2020-09-25T01:41:16+02:00"
         }
     ]
 }
