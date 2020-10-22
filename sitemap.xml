@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://basharovV.github.io/existentialist/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://existentialist.xyz/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://basharovV.github.io/existentialist/</loc>
+<loc>https://existentialist.xyz/</loc>
 </url>
 <url>
-<loc>https://basharovV.github.io/existentialist/on-self-tracking-exobrains-and-quantified-self-3.html</loc>
-<lastmod>2020-10-22T02:29:10+02:00</lastmod>
+<loc>https://existentialist.xyz/on-self-tracking-exobrains-and-quantified-self-3.html</loc>
+<lastmod>2020-10-22T13:44:11+02:00</lastmod>
 <image:image>
-<image:loc>https://basharovV.github.io/existentialist/media\posts\7/your_life.png</image:loc>
+<image:loc>https://existentialist.xyz/media/posts/7/your_life.png</image:loc>
 <image:title><![CDATA[Your life]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://basharovV.github.io/existentialist/media\posts\7/brain-2.png</image:loc>
+<image:loc>https://existentialist.xyz/media/posts/7/brain-2.png</image:loc>
 <image:title><![CDATA[Brain]]></image:title>
 </image:image>
 </url>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>existentialist</title>
-    <link href="https://basharovV.github.io/existentialist/feed.xml" rel="self" />
-    <link href="https://basharovV.github.io/existentialist" />
-    <updated>2020-10-22T02:29:10+02:00</updated>
+    <link href="https://existentialist.xyz/feed.xml" rel="self" />
+    <link href="https://existentialist.xyz" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Vyacheslav Basharov</name>
     </author>
-    <id>https://basharovV.github.io/existentialist</id>
+    <id>https://existentialist.xyz</id>
 
     <entry>
         <title>On self-tracking, exobrains and quantified self</title>
         <author>
             <name>Vyacheslav Basharov</name>
         </author>
-        <link href="https://basharovV.github.io/existentialist/on-self-tracking-exobrains-and-quantified-self-3.html"/>
-        <id>https://basharovV.github.io/existentialist/on-self-tracking-exobrains-and-quantified-self-3.html</id>
+        <link href="https://existentialist.xyz/on-self-tracking-exobrains-and-quantified-self-3.html"/>
+        <id>https://existentialist.xyz/on-self-tracking-exobrains-and-quantified-self-3.html</id>
 
-        <updated>2020-10-22T02:29:10+02:00</updated>
+        <updated>2020-10-22T13:56:07+02:00</updated>
             <summary>
                 <![CDATA[
                     <pre><span style="color: #95a5a6;">🧠 The art, science and technology of understanding oneself. </span></pre>
@@ -63,7 +63,7 @@
 <p>The particular motivation for self-tracking really depends on the person and their circumstances, but generally it's a matter of reflecting and acting upon one's life, in an effort to live healthier, better, and longer. <strong>Fitter, happier, more productive. </strong>For instance, someone in their 20's might be looking for ways to minimise burnout and stress. Older folks may be concerned with their diet or cholesterol levels. Others may want to improve their sleep. Or keep track of every time they sneeze. Whatever the reason, people are digging into their digital data doubles and tracking data that has never been quantified before. You name it - it's probably being tracked by someone, somewhere. </p>
 <h2>It all started with the weight scale</h2>
 <figure class="post__image post__image--right" ><img loading="lazy" src="https://i.pinimg.com/474x/f6/b4/a2/f6b4a2c4ce4fb514c8d0fbbf92482d1e--vintage-scales-kitchen-scales.jpg" data-is-external-image="true"  alt="An American penny scale" width="146" height="564">
-<figcaption >An american penny scale</figcaption>
+<figcaption >An American penny scale</figcaption>
 </figure>
 <p class="align-left">Naturally, the concept of self-tracking is not new, and goes back to the late 19th century, when 'penny scales' would allow people to record their own weight for the first time without visiting the doctor's office. Before scales made their way into people home's, they were out in the public - in grocery stores, pharmacies and banks. Reminding everyone to stay healthy, these grandfather-clock-looking devices became the first vending machine in the U.S that provided a service, not a product. Slot a penny in, get your weight and a satisfying bell sound. It was a huge commercial success - between the 1930s and 40s penny scales brought in over 1 billion pennies ($10 million annually). The messaging surrounding the scales was clear: those who weigh themselves - know themselves well, and those who know themselves well - live well. </p>
 <p>By the time the first domestic scales appeared, a person's weight became an important form of self-knowledge, and once a standard table of height and weight was established, people not only knew their weight, but also what they 'should' weigh ideally. With this industry standard the public had the ability to manage their weight and optimise towards a target. This attached a level of self-worth to a number that we still see deeply reflected in our society today. As one participant of a study confessed: </p>
@@ -72,7 +72,7 @@
 </blockquote>
 <h2>Quantified Self</h2>
 <p>A community that fully embraces <em>"self-knowledge through numbers"</em> is the Quantified Self (QS) movement, which has now grown to 70,000 members around the world since it's foundation in 2007. Originally starting in Silicon Valley, it now encompasses a growing community forum, worldwide meetups and conferences, and even a QS institute. You can find out more about QS <a href="https://quantifiedself.com/" target="_blank" rel="noopener noreferrer">here</a>. The community members learn from each other, share tools and frameworks, and constantly strive to get the most out of their data. The tech savvy ones may even build their own personal data infrastructure, similar to Stephen Wolfram, by writing scripts to fetch data from their software and hardware. Others may simply write down their moods on a piece of paper, hoping it will be useful some day. </p>
-<figure><figure class="post__image post__image--center"><img loading="lazy"  src="https://basharovV.github.io/existentialist/media/posts/7/your_life.png" alt="Your life" width="300" height="284"></figure>
+<figure><figure class="post__image post__image--center"><img loading="lazy"  src="https://existentialist.xyz/media/posts/7/your_life.png" alt="Your life" width="300" height="284"></figure>
 <figcaption>Imagine a fancy dashboard on that laptop screen. And a notification that says 'Constitution + 1'</figcaption>
 </figure>
 <p>While compelling, the Quantified Self movement also begs the question - <em>why</em>? Kevin Kelly, one of the founders of the Quantified Self movement, puts it this way:</p>
@@ -84,12 +84,15 @@
 <hr>
 <p class="align-left"><span style="color: #95a5a6;"><em><span style="text-decoration: underline;">"Check yo self before you know thy self".</span> - a totally serious proposal for the new QS motto.</em></span></p>
 <hr>
+<h3> </h3>
+<h3> </h3>
+<h3> </h3>
 <h3>Thanks for reading the first post on existentialist.xyz, where I write about the intersection of technology, science and art in thought-provoking and meaningful ways. </h3>
-<p>Each post is a conversation starter, and I'd love any feedback you have on the format, content, or any mistakes you spot (and thanks for proof reading if I asked you to). Please reach out to me on <a href="mailto:contact@vyacheslavbasharov.com">contact@vyacheslavbasharov.com.</a></p>
+<p>Each post is a conversation starter, and I'd love any feedback you have on the format, content, or any mistakes you spot (and thanks for proof reading if I asked you to). Please reach out to me on <a href="mailto:contact@vyacheslavbasharov.com">contact@vyacheslavbasharov.com</a> or on Telegram at @vbasharov.  </p>
 <h2>Oh! Don't forget to come back for Part 2 of this post:</h2>
 <h3>Upcoming post - Part 2: Exobrains </h3>
 <p>Originally this post was going to include a section about exobrains, somewhat related to self-tracking. However I feel it deserves it's own separate post, so that will be the topic of the next one, out on Monday 2nd November. </p>
-<figure class="post__image post__image--center"><img loading="lazy"  style="outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;" src="https://basharovV.github.io/existentialist/media/posts/7/brain-2.png" alt="Brain" width="309" height="293"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  style="outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;" src="https://existentialist.xyz/media/posts/7/brain-2.png" alt="Brain" width="309" height="293"></figure>
 <p> </p>
 <hr>
 <p><span style="color: #95a5a6;">Sources: </span></p>
@@ -99,8 +102,8 @@
 <p><span style="color: #95a5a6;"><a href="https://www.jstor.org/stable/pdf/1413565.pdf" style="color: #95a5a6;">https://www.jstor.org/stable/pdf/1413565.pdf</a> </span></p>
 <p><span style="color: #95a5a6;"><a href="https://www.youtube.com/watch?v=tA02gX7-G_w" style="color: #95a5a6;">https://www.youtube.com/watch?v=tA02gX7-G_w</a> </span></p>
 <p><span style="color: #95a5a6;"><a href="https://quantifiedself.com/" style="color: #95a5a6;">https://quantifiedself.com/</a> </span></p>
-<p><a href="http://www.unfitbits.com/assets/European%20Journal%20of%20Cultural%20Studies-2015-Crawford-479-96.pdf">http://www.unfitbits.com/assets/European%20Journal%20of%20Cultural%20Studies-2015-Crawford-479-96.pdf</a> </p>
-<p><a href="https://www.theamericanweigh.com/history.html">https://www.theamericanweigh.com/history.html</a> </p>
+<p><span style="color: #95a5a6;"><a href="http://www.unfitbits.com/assets/European%20Journal%20of%20Cultural%20Studies-2015-Crawford-479-96.pdf" style="color: #95a5a6;">http://www.unfitbits.com/assets/European%20Journal%20of%20Cultural%20Studies-2015-Crawford-479-96.pdf</a> </span></p>
+<p><span style="color: #95a5a6;"><a href="https://www.theamericanweigh.com/history.html" style="color: #95a5a6;">https://www.theamericanweigh.com/history.html</a> </span></p>
             ]]>
         </content>
     </entry>
