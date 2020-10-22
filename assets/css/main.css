@@ -10,15 +10,10 @@
 }
 
 body {
-  font: 400 1.5em, "IBM Plex Serif", "Helvetica Neue", Helvetica, Arial,
-    sans-serif;
+  font: 400 1em "IBM Plex Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #313131;
-  display: grid;
-  grid-template-columns: auto minmax(auto, var(--main-width)) auto;
-  grid-template-areas:
-    ". header ."
-    ". main ."
-    ". footer .";
+  max-width: var(--main-width);
+  margin: auto;
 }
 
 @font-face {
@@ -65,7 +60,7 @@ h4 {
 }
 
 p {
-  font-size: 1.4em;
+  font-size: 1.1em;
   line-height: 150%;
 }
 
@@ -77,6 +72,25 @@ small {
 a {
   text-decoration: none;
   color: initial;
+}
+
+blockquote {
+  font-size: 1.25em;
+  position: relative;
+}
+
+blockquote:after {
+  content: "\201D";
+  position: absolute;
+  top: -30px;
+  right: -50px;
+  font-size: 5em;
+  font-weight: normal;
+  z-index: 2;
+}
+
+.blockquote > figcaption {
+  color: #cacaca;
 }
 
 #logo-text {
@@ -139,8 +153,10 @@ article {
 }
 
 article img {
-   border-radius: 5px;
-   border: 2px solid black;
+  /* border-radius: 5px;
+  border: 2px solid black; */
+  margin: auto;
+  display: block;
 }
 
 .post-meta {
@@ -163,14 +179,17 @@ article img {
 .align-right {
 }
 .align-center {
+  text-align: center;
 }
 .align-justify {
 }
 
 /* Post images*/
 .post__image--left {
+  float: left;
 }
 .post__image--right {
+  float: right;
 }
 .post__image--center {
 }
@@ -227,4 +246,104 @@ hr {
 .has-submenu {
 }
 .active-parent {
+}
+
+/* Additional stuff */
+
+.artboard {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  --defaulAngle: 0turn;
+  margin: auto;
+  transform: scale(0.5);
+}
+
+.circle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -75px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-image: --webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(calc(45deg + var(--defaulAngle))),
+    color-stop(rgba(241, 241, 241, 0.6)),
+    color-stop(95%, transparent)
+  );
+  background-image: linear-gradient(
+    calc(45deg + var(--defaulAngle)),
+    rgba(241, 241, 241, 0.6),
+    transparent 95%
+  );
+  mix-blend-mode: exclusion;
+  --defaulAngle: 0turn;
+  -webkit-animation: rotateCircle 15s linear infinite;
+  animation: rotateCircle 15s linear infinite;
+}
+
+.circle:nth-child(1) {
+  --rotate-0: 0deg;
+  -webkit-transform: rotatez(calc(var(--rotate-0) + var(--defaulAngle)))
+    translatey(74px);
+  transform: rotatez(calc(var(--rotate-0) + var(--defaulAngle)))
+    translatey(74px);
+}
+.circle:nth-child(2) {
+  --rotate-1: 51.4285714286deg;
+  -webkit-transform: rotatez(calc(var(--rotate-1) + var(--defaulAngle)))
+    translatey(74px);
+  transform: rotatez(calc(var(--rotate-1) + var(--defaulAngle)))
+    translatey(74px);
+}
+.circle:nth-child(3) {
+  --rotate-2: 102.8571428571deg;
+  -webkit-transform: rotatez(calc(var(--rotate-2) + var(--defaulAngle)))
+    translatey(74px);
+  transform: rotatez(calc(var(--rotate-2) + var(--defaulAngle)))
+    translatey(74px);
+}
+.circle:nth-child(4) {
+  --rotate-3: 154.2857142857deg;
+  -webkit-transform: rotatez(calc(var(--rotate-3) + var(--defaulAngle)))
+    translatey(74px);
+  transform: rotatez(calc(var(--rotate-3) + var(--defaulAngle)))
+    translatey(74px);
+}
+.circle:nth-child(5) {
+  --rotate-4: 205.7142857143deg;
+  -webkit-transform: rotatez(calc(var(--rotate-4) + var(--defaulAngle)))
+    translatey(74px);
+  transform: rotatez(calc(var(--rotate-4) + var(--defaulAngle)))
+    translatey(74px);
+}
+.circle:nth-child(6) {
+  --rotate-5: 257.1428571429deg;
+  -webkit-transform: rotatez(calc(var(--rotate-5) + var(--defaulAngle)))
+    translatey(74px);
+  transform: rotatez(calc(var(--rotate-5) + var(--defaulAngle)))
+    translatey(74px);
+}
+.circle:nth-child(7) {
+  --rotate-6: 308.5714285714deg;
+  -webkit-transform: rotatez(calc(var(--rotate-6) + var(--defaulAngle)))
+    translatey(74px);
+  transform: rotatez(calc(var(--rotate-6) + var(--defaulAngle)))
+    translatey(74px);
+}
+
+@-webkit-keyframes rotateCircle {
+  to {
+    --defaulAngle: 1turn;
+  }
+}
+
+@keyframes rotateCircle {
+  to {
+    --defaulAngle: 1turn;
+  }
 }
