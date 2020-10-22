@@ -18,7 +18,7 @@
         <id>https://existentialist.xyz/on-self-tracking-exobrains-and-quantified-self/</id>
             <category term="analytics"/>
 
-        <updated>2020-10-22T23:25:39+02:00</updated>
+        <updated>2020-10-23T01:22:52+02:00</updated>
             <summary>
                 <![CDATA[
                     <pre><span style="color: #95a5a6;">🧠 The art, science and technology of understanding oneself. </span></pre>
@@ -60,7 +60,7 @@
 <p>I don’t feel any way until I know the number on the scale. The numbers tell me how to feel. </p>
 </blockquote>
 <h2>Quantified Self</h2>
-<p>A community that fully embraces <em>"self-knowledge through numbers"</em> is the Quantified Self (QS) movement, which has now grown to 70,000 members around the world since it's foundation in 2007. Originally starting in Silicon Valley, it now encompasses a growing community forum, worldwide meetups and conferences, and even a QS institute. You can find out more about QS <a href="https://quantifiedself.com/" target="_blank" rel="noopener noreferrer">here</a>. The community members learn from each other, share tools and frameworks, and constantly strive to get the most out of their data. The tech savvy ones may even build their own personal data infrastructure, similar to Stephen Wolfram, by writing scripts to fetch data from their software and hardware. Others may simply write down their moods on a piece of paper, hoping it will be useful some day. And then there's the dashboard enthusiasts, building admin panels to visualise their life in every possible way. </p>
+<p>A community that fully embraces <em>"self-knowledge through numbers"</em> is the <a href="https://quantifiedself.com/">Quantified Self</a> (QS) movement, which has now grown to 70,000 members around the world since it's foundation in 2007. Originally starting in Silicon Valley, it now encompasses a growing community forum, worldwide meet-ups and conferences, and even a QS institute. The community members learn from each other, share tools and frameworks, and constantly strive to get the most out of their data. The tech savvy ones may even build their own personal data infrastructure, similar to Stephen Wolfram, by writing scripts to fetch data from their software and hardware. Others may simply write down their moods on a piece of paper, hoping it will be useful some day. And then there's the dashboard enthusiasts, building admin panels to visualise their life in every possible way. </p>
 <figure><figure class="post__image post__image--center"><img loading="lazy"  src="https://existentialist.xyz/media/posts/7/your_life.png" alt="Your life" width="300" height="284"></figure>
 <figcaption>Imagine a fancy dashboard on that laptop screen. And a notification that says 'Constitution + 1'</figcaption>
 </figure>
@@ -76,7 +76,6 @@
 <h3> </h3>
 <h3>Thanks for reading the first post on existentialist.xyz, where I write about the intersection of technology, science and art in thought-provoking and meaningful ways. </h3>
 <p>Each post is a conversation starter, and I'd love any feedback you have on the format, content, or any mistakes you spot (and thanks for proof reading if I asked you to). Please reach out to me on <a href="mailto:contact@vyacheslavbasharov.com">contact@vyacheslavbasharov.com</a> or on Telegram at @vbasharov.  </p>
-<h3>🖌Oh! Don't forget to come back for Part 2:</h3>
 <h4>Upcoming post - Part 2: Exobrains </h4>
 <p>Originally this post was going to include a section about exobrains (another fascinating topic on the intersection of our digital and physical self). However I feel it deserves its own separate post, so that will be the topic of the next one, out on the first week of November. </p>
 <figure class="post__image post__image--center"><img loading="lazy"  style="outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;" src="https://existentialist.xyz/media/posts/7/brain-2.png" alt="Brain" width="309" height="293"></figure>
