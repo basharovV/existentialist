@@ -10,6 +10,17 @@
   --sidebar-width: 300px;
 }
 
+
+::-moz-selection {
+  background: black;
+  color: white;
+}
+
+::selection {
+  background: black;
+  color: white;
+}
+
 body {
   font: 400 1em "IBM Plex Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #313131;
