@@ -10,6 +10,28 @@
     <id>https://existentialist.xyz</id>
 
     <entry>
+        <title>Confirmed</title>
+        <author>
+            <name>Slav</name>
+        </author>
+        <link href="https://existentialist.xyz/confirmed/"/>
+        <id>https://existentialist.xyz/confirmed/</id>
+
+        <updated>2020-10-23T16:28:21+02:00</updated>
+            <summary>
+                <![CDATA[
+                    💌 Thanks! I'll be sending you an email with a brief of the latest articles as they come out. Until then! - Slav
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>💌 Thanks! </h2>
+<p>I'll be sending you an email with a brief of the latest articles as they come out. Until then! </p>
+<p>- Slav</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>On self-tracking, exobrains and quantified self</title>
         <author>
             <name>Slav</name>
@@ -18,7 +40,7 @@
         <id>https://existentialist.xyz/on-self-tracking-exobrains-and-quantified-self/</id>
             <category term="analytics"/>
 
-        <updated>2020-10-23T15:39:04+02:00</updated>
+        <updated>2020-10-23T16:28:21+02:00</updated>
             <summary>
                 <![CDATA[
                     <pre><span style="color: #95a5a6;">🧠 The art, science and technology of understanding oneself. </span></pre>

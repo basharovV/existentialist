@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://existentialist.xyz/confirmed/",
+            "url": "https://existentialist.xyz/confirmed/",
+            "title": "Confirmed",
+            "summary": "💌 Thanks! I'll be sending you an email with a brief of the latest articles as they come out. Until then! - Slav",
+            "content_html": "<h2>💌 Thanks! </h2>\n<p>I'll be sending you an email with a brief of the latest articles as they come out. Until then! </p>\n<p>- Slav</p>",
+            "author": {
+                "name": "Slav"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-23T16:28:21+02:00",
+            "date_modified": "2020-10-23T16:28:21+02:00"
+        },
+        {
             "id": "https://existentialist.xyz/on-self-tracking-exobrains-and-quantified-self/",
             "url": "https://existentialist.xyz/on-self-tracking-exobrains-and-quantified-self/",
             "title": "On self-tracking, exobrains and quantified self",
@@ -22,8 +36,8 @@
             "tags": [
                    "analytics"
             ],
-            "date_published": "2020-10-23T15:39:04+02:00",
-            "date_modified": "2020-10-23T15:39:04+02:00"
+            "date_published": "2020-10-23T16:28:21+02:00",
+            "date_modified": "2020-10-23T16:28:21+02:00"
         }
     ]
 }
