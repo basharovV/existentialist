@@ -183,7 +183,7 @@ figcaption {
   opacity: 0.5;
 }
 
-.author-section {
+.section {
   padding: 1em 2em;
 }
 
@@ -209,9 +209,13 @@ figcaption {
 
 /* Text alignment */
 
-.align-left {}
+.align-left {
+  text-align: left;
+}
 
-.align-right {}
+.align-right {
+  text-align: right;
+}
 
 .align-center {
   text-align: center;

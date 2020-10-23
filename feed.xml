@@ -5,20 +5,20 @@
     <link href="https://existentialist.xyz" />
     <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
-        <name>Vyacheslav Basharov</name>
+        <name>Slav</name>
     </author>
     <id>https://existentialist.xyz</id>
 
     <entry>
         <title>On self-tracking, exobrains and quantified self</title>
         <author>
-            <name>Vyacheslav Basharov</name>
+            <name>Slav</name>
         </author>
         <link href="https://existentialist.xyz/on-self-tracking-exobrains-and-quantified-self/"/>
         <id>https://existentialist.xyz/on-self-tracking-exobrains-and-quantified-self/</id>
             <category term="analytics"/>
 
-        <updated>2020-10-23T01:39:13+02:00</updated>
+        <updated>2020-10-23T02:32:03+02:00</updated>
             <summary>
                 <![CDATA[
                     <pre><span style="color: #95a5a6;">🧠 The art, science and technology of understanding oneself. </span></pre>
@@ -29,10 +29,11 @@
             <![CDATA[
                 <pre><span style="color: #95a5a6;">🧠 The art, science and technology of understanding oneself. </span></pre>
 
+<p class="align-right"><span style="color: #95a5a6;">⏳Reading time: </span><strong><span style="color: #95a5a6;">10 minutes</span></strong></p>
 <p><em>"Hey Siri, am I a cyborg yet?"</em></p>
 <p>You are a system. Well, a biological one, but a system nonetheless. An interconnected bunch of elements forming a complex whole. And as with many systems, it is subject to be analysed or even optimised. By studying it you gradually<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> develop a more complete picture of your mind and body. But the form in which we gather and interpret this information is changing. We now have access to tools and services that were unimaginable decades ago. And there's </span><em style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">a lot of data</em><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> that comes with it. Instead of getting analysis every few months from the doctor, we can now get it by the minute. Many people don't think about it twice, but others have begun to ask </span><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">the question</strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">:</span></p>
 <p><em>"How can I use my personal data to learn more about myself?"</em></p>
-<p>Stephen Wolfram <em>(Wolfram Alpha / Mathematica CEO) </em>is one of these people. Back in 2012, Stephen published an essay titled "The Personal Analytics of My Life" (source below), exploring the vast amounts of data he collected about himself from the early 1990's to the early 2010's. Emails, phone calls, footsteps, keystrokes. <i>Yes, keystrokes. </i>Using this data, Stephen asks questions like "how many hours have I spent on the phone each day", or "how has my vocabulary evolved over the years", and analyses it using statistics and visualisation software. He hasn't stopped collecting data since then. In fact, he <em>regrets not starting sooner</em>, and not having more types of data to work with. Being a productivity guru, these insights help Stephen become more productive and do better work, especially since he runs a remote business and is involved in pretty much every aspect of the company. Surprised by the fact that nobody seemed as interested as he was in tracking this data, Stephen hoped that one day this will become the norm: </p>
+<p>Stephen Wolfram <em>(Wolfram Alpha / Mathematica CEO) </em>is one of these people. Back in 2012, Stephen published an essay titled <a href="https://writings.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/">"The Personal Analytics of My Life"</a>, exploring the vast amounts of data he collected about himself from the early 1990's to the early 2010's. Emails, phone calls, footsteps, keystrokes. <i>Yes, keystrokes. </i>Using this data, Stephen asks questions like "how many hours have I spent on the phone each day", or "how has my vocabulary evolved over the years", and analyses it using statistics and visualisation software. He hasn't stopped collecting data since then. In fact, he <em>regrets not starting sooner</em>, and not having more types of data to work with. Being a productivity guru, these insights help Stephen become more productive and do better work, especially since he runs a remote business and is involved in pretty much every aspect of the company. Surprised by the fact that nobody seemed as interested as he was in tracking this data, Stephen hoped that one day this will become the norm: </p>
 <blockquote>
 <p>One day everyone will routinely collect all sorts of data about themselves.</p>
 </blockquote>
@@ -69,27 +70,21 @@
 <p>The real goal was always personalisation - to have an experiment of n=1. <strong>…</strong>  Most medical research is performed at a very large scale where you have thousands of thousands of participants, otherwise it's not really considered valid. But in fact - none of us really want a treatment, therapy or regime that works for everybody - we want something that works for <em>us</em>. So instead of having an <em>n</em> of thousands, we're just going to experiment on ourselves (hence n=1). And if it works for us - then that's<em> all we need.</em> </p>
 </blockquote>
 <p>It's an interesting perspective pointing towards our increasingly individualistic society. The meaning of personalisation is important to consider in context here. Sure, while Apple Watch and Fitbit provide <em>personalised</em> dashboards, they are still designed for mass data collection and analysis. True personalisation comes from one actively taking ownership in the data, from collection to analysis and ultimately decision-making, in a way that works for them. This is the promise of Quantified Self. Although it's still far from the data-driven personal utopia, it hints at a society that's more self-aware than ever before. One where technology gives us a more complete picture of ourselves, and where our behaviour is partially rooted in the insights we get from our own data. </p>
-<p>Of course, it would be delusional to assume that technology will give us all the answers. <em><strong>A</strong></em> <em><strong>truly quantified self is unthinkable </strong></em>by current standards, since there's so much of what makes us human that can't be quantified, or even rationally explained. This makes me wonder about the implications of the QS movement. Those that get spiralled down the rabbit hole of self-tracking for no apparent reason other than "this data might be useful someday" gives us a glimpse of the possible future. Although Wolfram's prediction holds more truth today than a decade ago, it remains to be seen how it will shape society in the 2020's and beyond. As a closing remark, ponder on the following premise: are we moving towards a new tech mania where mankind obsesses over a permanent search of its "true self" through technology-driven introspection? Constantly craving an incremental dose of self-awareness? <em>A new kind of 'filter bubble', </em>if you will. </p>
+<p>Of course, it would be delusional to assume that technology will give us all the answers. <em><strong>A</strong></em> <em><strong>truly quantified self is unthinkable </strong></em>by current standards, since there's so much of what makes us human that can't be quantified, or even rationally explained. This makes me wonder about the implications of the QS movement. Those that get spiralled down the rabbit hole of self-tracking for no apparent reason other than "this data might be useful someday" gives us a glimpse of the possible future. Although Wolfram's prediction holds more truth today than a decade ago, it remains to be seen how it will shape society in the 2020's and beyond.</p>
+<p>As a closing remark, ponder on the following premise: are we moving towards a new tech mania where mankind obsesses over a permanent search of its "true self" through technology-driven introspection? Constantly craving an incremental dose of self-awareness? <em>A new kind of 'filter bubble', </em>if you will. </p>
 <p> </p>
 <p class="align-left"><span style="color: #95a5a6;"><em><span style="text-decoration: underline;">"Check yo self before you know thy self".</span> - a totally serious proposal for the new QS motto.</em></span></p>
 <hr>
 <h3> </h3>
-<h3>Thanks for reading the first post on existentialist.xyz, where I write about the intersection of technology, science and art in thought-provoking and meaningful ways. </h3>
+<p><strong>Thanks for reading the first post on existentialist.xyz, where I write about the intersection of technology, science and art in thought-provoking and meaningful ways. </strong></p>
 <p>Each post is a conversation starter, and I'd love any feedback you have on the format, content, or any mistakes you spot (and thanks for proof reading if I asked you to). Please reach out to me on <a href="mailto:contact@vyacheslavbasharov.com">contact@vyacheslavbasharov.com</a> or on Telegram at @vbasharov.  </p>
 <h4>Upcoming post - Part 2: Exobrains </h4>
-<p>Originally this post was going to include a section about exobrains (another fascinating topic on the intersection of our digital and physical self). However I feel it deserves its own separate post, so that will be the topic of the next one, out on the first week of November. </p>
+<p>Originally this post was going to include a section about exobrains (another fascinating topic on the intersection of our digital and physical self). However I feel it deserves its own separate post, so that will be the topic of the next one. The goal is to publish twice a month, so it will be out on the first week of November. </p>
 <figure class="post__image post__image--center"><img loading="lazy"  style="outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;" src="https://existentialist.xyz/media/posts/7/brain-2.png" alt="Brain" width="309" height="293"></figure>
 <p> </p>
 <hr>
 <p><span style="color: #95a5a6;">Sources: </span></p>
-<p><span style="color: #95a5a6;"><a href="http://faculty.philosophy.umd.edu/pcarruthers/WIRE%20Introspection.pdf" style="color: #95a5a6;">http://faculty.philosophy.umd.edu/pcarruthers/WIRE%20Introspection.pdf</a> </span></p>
-<p><span style="color: #95a5a6;"><a href="https://en.wikipedia.org/wiki/Introspection_illusion" style="color: #95a5a6;">https://en.wikipedia.org/wiki/Introspection_illusion</a></span></p>
-<p><span style="color: #95a5a6;"><a href="http://www.kurtdanziger.com/hist%20introsp.pdf" style="color: #95a5a6;">http://www.kurtdanziger.com/hist%20introsp.pdf</a> </span></p>
-<p><span style="color: #95a5a6;"><a href="https://www.jstor.org/stable/pdf/1413565.pdf" style="color: #95a5a6;">https://www.jstor.org/stable/pdf/1413565.pdf</a> </span></p>
-<p><span style="color: #95a5a6;"><a href="https://www.youtube.com/watch?v=tA02gX7-G_w" style="color: #95a5a6;">https://www.youtube.com/watch?v=tA02gX7-G_w</a> </span></p>
-<p><span style="color: #95a5a6;"><a href="https://quantifiedself.com/" style="color: #95a5a6;">https://quantifiedself.com/</a> </span></p>
-<p><span style="color: #95a5a6;"><a href="http://www.unfitbits.com/assets/European%20Journal%20of%20Cultural%20Studies-2015-Crawford-479-96.pdf" style="color: #95a5a6;">http://www.unfitbits.com/assets/European%20Journal%20of%20Cultural%20Studies-2015-Crawford-479-96.pdf</a> </span></p>
-<p><span style="color: #95a5a6;"><a href="https://www.theamericanweigh.com/history.html" style="color: #95a5a6;">https://www.theamericanweigh.com/history.html</a> </span></p>
+<pre><span style="color: #95a5a6;"><a href="http://faculty.philosophy.umd.edu/pcarruthers/WIRE%20Introspection.pdf" style="color: #95a5a6;">http://faculty.philosophy.umd.edu/pcarruthers/WIRE%20Introspection.pdf</a> <br><br><a href="https://writings.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/" style="color: #95a5a6;">https://writings.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/</a> </span><br><br><span style="color: #95a5a6;"><a href="https://en.wikipedia.org/wiki/Introspection_illusion" style="color: #95a5a6;">https://en.wikipedia.org/wiki/Introspection_illusion</a></span><br><br><span style="color: #95a5a6;"><a href="http://www.kurtdanziger.com/hist%20introsp.pdf" style="color: #95a5a6;">http://www.kurtdanziger.com/hist%20introsp.pdf</a> </span><br><br><span style="color: #95a5a6;"><a href="https://www.jstor.org/stable/pdf/1413565.pdf" style="color: #95a5a6;">https://www.jstor.org/stable/pdf/1413565.pdf</a> </span><br><br><span style="color: #95a5a6;"><a href="https://www.youtube.com/watch?v=tA02gX7-G_w" style="color: #95a5a6;">https://www.youtube.com/watch?v=tA02gX7-G_w</a> </span><br><br><span style="color: #95a5a6;"><a href="https://quantifiedself.com/" style="color: #95a5a6;">https://quantifiedself.com/</a> </span><br><br><span style="color: #95a5a6;"><a href="http://www.unfitbits.com/assets/European%20Journal%20of%20Cultural%20Studies-2015-Crawford-479-96.pdf" style="color: #95a5a6;">http://www.unfitbits.com/assets/European%20Journal%20of%20Cultural%20Studies-2015-Crawford-479-96.pdf</a> </span><br><br><span style="color: #95a5a6;"><a href="https://www.theamericanweigh.com/history.html" style="color: #95a5a6;">https://www.theamericanweigh.com/history.html</a> </span></pre>
             ]]>
         </content>
     </entry>
